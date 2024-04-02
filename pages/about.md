@@ -8,13 +8,20 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 
+
 {% include feature/jumbotron.html objectid="https://cdil.lib.uidaho.edu/images/palouse_sm.jpg" %} 
 
 {% include feature/nav-menu.html sections="About CollectionBuilder CSV;About the About Page" %}
 
-## About CollectionBuilder CSV
+## About the Exhibit
+
+There are a bunch of mining things in this collection.
 
 This demo collection features items from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital/), and is build using [CollectionBuilder-CSV](https://github.com/CollectionBuilder/collectionbuilder-csv).
+
+
+{% include feature/image.html objectid="watkins22" width="75" caption="A mine." %}
+
 
 CollectionBuilder-CSV is a "Stand Alone" template for creating digital collection and exhibit websites using Jekyll, given:
 
