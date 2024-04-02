@@ -1,8 +1,9 @@
 display_name,stub,dropdown_parent
 Home,/,
-Browse,/browse.html,
-Data,/data.html,
 About,/about.html,
+Collection
+Browse objects,/browse.html,Collection
+View data,/data.html,Collection
 Visualizations
 Map,/map.html,Visualizations
 Subjects,/subjects.html,Visualizations

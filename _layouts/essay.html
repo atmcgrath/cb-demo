@@ -1,0 +1,21 @@
+---
+# generic page layout
+layout: default
+---
+<div class="container my-4">
+    <div class="row">
+        <div class="col-12">
+            {% include feature/jumbotron.html objectid="watkins34" heading="Essay" text="by Alice McGrath" %} 
+        </div>
+        <div class="col-md-8">
+            {{ content }}
+        </div>
+        <div class="col-md-4">
+        
+            {% include feature/card.html header="Learn More" text="View the Digital Scholarship Website" %}
+            {% include feature/pdf.html objectid="https://www.lib.uidaho.edu/collectionbuilder/demo-objects/uiext21768.pdf" width="100" %}
+            {% include feature/image.html objectid="watkins22" width="75" caption="A mine." %}
+            
+        </div>
+    </div>
+</div>

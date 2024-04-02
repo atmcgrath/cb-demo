@@ -18,12 +18,12 @@ source-code: https://github.com/CollectionBuilder/collectionbuilder-csv
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: Digital Scholarship at Bryn Mawr
+title: An Exhibit about Mining
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: Digital Collection Magic with Static Web Technologies
+tagline: Butte, Montana in the 1890s
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "Here are some cool projects we've done!"
+description: "Dates have been changed for display purposes"
 # keywords, a short list of subjects describing the collection, separated by semicolon, to appear in rich markup
 keywords: idaho;history;inland northwest;mining
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
