@@ -14,6 +14,8 @@ author: Alice
 
 {% include feature/blockquote.html quote="Knowledge comes, but wisdom lingers" speaker="Alfred Lord Tennyson" source="Locksley Hall" %}
 
+{% include feature/image.html objectid="watkins34" %}
+
 There are a bunch of mining things in this collection.
 “Then, my dear, you may have the advantage of your friend, and introduce Mr. Bingley to her.”
 “Impossible, Mr. Bennet, impossible, when I am not acquainted with him myself; how can you be so teasing?”
