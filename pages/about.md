@@ -10,6 +10,8 @@ credits: true
 
 <!-- {% include feature/nav-menu.html sections="About CollectionBuilder CSV;About the About Page" %} -->
 
+{% include feature/image.html objectid="watkins12" %}
+
 {% include feature/blockquote.html quote="Knowledge comes, but wisdom lingers" speaker="Alfred Lord Tennyson" source="Locksley Hall" %}
 
 There are a bunch of mining things in this collection.
